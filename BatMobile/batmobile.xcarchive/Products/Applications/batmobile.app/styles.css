@@ -1,0 +1,32 @@
+body {
+    font-family:sans-serif;
+    font-size: 0.8em;
+}
+
+h2 {
+    margin-bottom:0;
+}
+
+td {
+    font-size:0.8em;
+    
+}
+th {
+    text-align:left;
+    font-size:0.8em;
+    width: 40%;
+}
+
+#bat-image {
+    width:80%;
+    margin:0 auto;
+    display: block;
+}
+
+#distribution-image {
+    margin:10px;
+    width: 50%;
+    float:left;
+    
+}
+    

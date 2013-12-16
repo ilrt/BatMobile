@@ -1,0 +1,9 @@
+"testable?" = "YES";
+"bar" = "translated_bar";
+"..." = "!!!";
+"..%@.." = "!!%@!!";
+".%@.%@." = "!%@!%@!";
+"%d" = "ha ha percent d %d";
+"%%d %@" = "ha ha percent d %%d %@";
+"%@" = "ha ha percent @ %@";
+"%%@ %@" = "ha ha percent @ %%@ %@";
